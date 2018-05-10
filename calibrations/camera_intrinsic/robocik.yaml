@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [338.72792891217813, 0.0, 334.41520072377006, 0.0, 337.6244053817515, 237.86304411661325,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: robocik/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2716324435974307, 0.05315949291356597, -0.0007304854705168364, -0.0011220206882822767,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [233.16014099121094, 0.0, 334.8833057209704, 0.0, 0.0, 279.83685302734375,
+    235.9535551762092, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
